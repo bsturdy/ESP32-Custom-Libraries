@@ -1,4 +1,4 @@
-# Ben Sturdy 3rd Year Univeristy Project
+# Ben Sturdy ESP32 Custom Libraries
 
 ## What is this repository for? ##
 
@@ -12,6 +12,8 @@
 + Minimum requirements (as tested) 
 	* Visual Studio Code
     * Espressif IDF Extension for Visual Studio Code
+
++ Copy the Lib folders into the components tab of your project and include them in your main file
 
 
 ## Who do I talk to? ##
